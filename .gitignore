@@ -1,0 +1,7 @@
+# Put completed work in one of these private directories.
+/session/
+/sessions/
+/private/
+/evidence/
+*.7z
+OSCP-OS-*-Exam-Report.pdf
