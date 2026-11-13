@@ -35,8 +35,12 @@ Use the static Markdown locally. OffSec prohibits LLM and chatbot assistance dur
 - [OffSec scaled scoring FAQ](https://help.offsec.com/hc/en-us/articles/54589877508884-OSCP-Equated-Scaled-Scoring-FAQ)
 - [OffSec reporting requirements](https://help.offsec.com/hc/en-us/articles/360046787731-OSCP-Reporting-Requirements)
 
-Independent study resource. [MIT license](LICENSE).
+Independent study resource. [Usage terms](LICENSE).
 
 ## Review workflow
 
 Rehearse the full workflow with the fictional example before exam day. Check that you can trace an observation to a screenshot, a submitted objective and a reproducible report step.
+
+## Usage terms
+
+Original material in this revision requires the owner's written permission for modification or redistribution. Earlier MIT releases and third-party licenses retain their terms. See [LICENSE](LICENSE).
